@@ -1,6 +1,6 @@
 GEM
   remote: https://rubygems.org/
-  remote: http://rubygems.org/
+  remote: https://rubygems.org/
   specs:
     rack (1.5.2)
 
