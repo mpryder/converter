@@ -1,6 +1,6 @@
 # A sample Gemfile
-source "https://rubygems.org"
+source 'https://rubygems.org'
 
 # gem "rails"
-source :rubygems
+source 'https://rubygems.org'
 gem 'rack'
