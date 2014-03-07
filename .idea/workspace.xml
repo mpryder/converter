@@ -35,7 +35,7 @@
       <file leaf-file-name="Gemfile.lock" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Gemfile.lock">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289">
+            <state line="1" column="0" selection-start="4" selection-end="4" vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="289">
               <folding />
             </state>
           </provider>
@@ -44,7 +44,7 @@
       <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="29" selection-start="105" selection-end="105" vertical-scroll-proportion="0.28451884" vertical-offset="0" max-vertical-offset="239">
+            <state line="8" column="3" selection-start="174" selection-end="174" vertical-scroll-proportion="0.5690377" vertical-offset="0" max-vertical-offset="255">
               <folding />
             </state>
           </provider>
@@ -506,7 +506,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile.lock">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="614">
+        <state line="1" column="0" selection-start="4" selection-end="4" vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="289">
           <folding />
         </state>
       </provider>
@@ -562,7 +562,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="29" selection-start="105" selection-end="105" vertical-scroll-proportion="0.28451884" vertical-offset="0" max-vertical-offset="239">
+        <state line="8" column="3" selection-start="174" selection-end="174" vertical-scroll-proportion="0.5690377" vertical-offset="0" max-vertical-offset="255">
           <folding />
         </state>
       </provider>
