@@ -4,6 +4,7 @@ ruby '1.9.3'
 # gem "rails"
 source 'https://rubygems.org'
 gem 'rack'
+gem 'rake'
 group :production, :staging do
   gem 'rails_12factor'
 end
