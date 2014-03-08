@@ -1,4 +1,5 @@
 use Rack::Static,
+config.assets.initialize_on_precompile = true,
 :urls => ["/css", "/img", "/js"],
 :root => "/public"
 
