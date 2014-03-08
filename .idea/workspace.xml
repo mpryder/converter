@@ -23,10 +23,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index1.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index1.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="53" column="21" selection-start="1625" selection-end="1625" vertical-scroll-proportion="-34.653847" vertical-offset="0" max-vertical-offset="1054">
+            <state line="9" column="20" selection-start="441" selection-end="441" vertical-scroll-proportion="0.25123152" vertical-offset="0" max-vertical-offset="1054">
               <folding />
             </state>
           </provider>
@@ -59,10 +59,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="config.ru" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="config.ru" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config.ru">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="17" selection-start="69" selection-end="69" vertical-scroll-proportion="0.053543307" vertical-offset="0" max-vertical-offset="635">
+            <state line="2" column="17" selection-start="69" selection-end="69" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="340">
               <folding />
             </state>
           </provider>
@@ -485,16 +485,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index1.html">
+    <entry file="file://$PROJECT_DIR$/config.ru">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="53" column="21" selection-start="1625" selection-end="1625" vertical-scroll-proportion="-34.653847" vertical-offset="0" max-vertical-offset="1054">
+        <state line="2" column="17" selection-start="69" selection-end="69" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="340">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config.ru">
+    <entry file="file://$PROJECT_DIR$/index1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="17" selection-start="69" selection-end="69" vertical-scroll-proportion="0.053543307" vertical-offset="0" max-vertical-offset="635">
+        <state line="9" column="20" selection-start="441" selection-end="441" vertical-scroll-proportion="0.25123152" vertical-offset="0" max-vertical-offset="1054">
           <folding />
         </state>
       </provider>
