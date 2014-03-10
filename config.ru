@@ -1,7 +1,7 @@
-config.assets.initialize_on_precompile = true
+
 use Rack::Static,
-:urls => ["/css", "/img", "/js"],
-:root => "/public"
+:urls => ["/.idea", "/css", "/doc", "/img", "/js", "test"],
+:root => "public"
 
 run lambda { |env|
   [
@@ -10,6 +10,6 @@ run lambda { |env|
       'Content-Type'  => 'text/html',
       'Cache-Control' => 'public, max-age=86400'
     },
-File.open('/index1.html', File::RDONLY)
+File.open('public/index1.html', File::RDONLY)
   ]
 }
