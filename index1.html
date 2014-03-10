@@ -8,6 +8,9 @@
         <link href="style-wide.css" rel="stylesheet" />
         <link href="style-narrow.css" rel="stylesheet" />
         <link href="style-mobile.css" rel="stylesheet" />
+        <script src="html5shiv.js" type="text/javascript"></script><![endif]-->
+        <script src="main.js"></script>
+        <script src="skel.min.js"></script>
         </head>
 	<body>
 		<div class="container">
@@ -29,17 +32,19 @@
                 </section>
 			<!-- Features -->
 				<div class="row">
-					<section class="6u">
-						<h2>Imperial weight in Ounce</h2>
+					<section class="3u">
+						<h2>Imperial weight</h2>
 						<input id="ounceweight" type="number"/>
 					</section>
-					<section class="6u">
+					<section class="3u">
 						<h2>Metric weight</h2>
 						<input id="metricweight" type="number"/>
 					</section>
-					<section class="2u">
+					<section class="3u">
 						<h2>Converted Value</h2>
                         <input id ="calculatweight" type="number" />
+                    </section>
+                    <section class="3u">
 						<button id="calculatebn">Calculate</button>
 					</section>
 				</div>
@@ -50,8 +55,6 @@
 				</div>
 		</div>
         <!--[if lte IE 8]>
-        <script src="html5shiv.js" type="text/javascript"></script><![endif]-->
-        <script src="main.js"></script>
-        <script src="skel.min.js"></script>
+
 	</body>
 </html>

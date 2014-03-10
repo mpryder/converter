@@ -1,6 +1,6 @@
-window._skel_config={
+window._skel_config = {
     prefix: 'style',
-        preloadStyleSheets: true,
+    preloadStyleSheets: true,
     resetCSS: true,
     boxModel: 'border',
     grid: { gutters: 30 },
@@ -9,4 +9,4 @@ window._skel_config={
         narrow: { range: '481-1199', containers: 960 },
         mobile: { range: '-480', containers: 'fluid', lockViewport: true, grid: { collapse: true } }
     }
-}
+};
